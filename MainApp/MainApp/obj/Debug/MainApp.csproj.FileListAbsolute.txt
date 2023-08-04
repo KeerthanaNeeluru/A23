@@ -1,0 +1,11 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A23\MainApp\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A23\MainApp\MainApp\bin\Debug\MainApp.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A23\MainApp\MainApp\bin\Debug\MainApp.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A23\MainApp\MainApp\bin\Debug\SharedLib.dll
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A23\MainApp\MainApp\bin\Debug\SharedLib.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A23\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A23\MainApp\MainApp\obj\Debug\MainApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A23\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A23\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A23\MainApp\MainApp\obj\Debug\MainApp.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\Assignments\A23\MainApp\MainApp\obj\Debug\MainApp.pdb
